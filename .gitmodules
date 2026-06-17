@@ -1,0 +1,3 @@
+[submodule "MaAS"]
+	path = MaAS
+	url = https://github.com/bingreeky/MaAS.git
