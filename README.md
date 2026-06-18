@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project evaluates the **MaAS (Multi-Agent-as-a-Service)** system on two popular benchmarks to understand how well a locally-running multi-agent LLM pipeline performs on both structured math and broad knowledge tasks.
+This project evaluates the **MaAS (Multi-agent Architecture Search)** system on two popular benchmarks to understand how well a locally-running multi-agent LLM pipeline performs on both structured math and broad knowledge tasks.
 
 **Two experiments were run:**
 - **Experiment 1** — GSM8K (Grade School Math)
