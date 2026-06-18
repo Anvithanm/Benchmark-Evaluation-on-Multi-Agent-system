@@ -336,11 +336,11 @@ MMLU tells a different story. At 56%, the system is well above random chance (25
 
 **MaAS**
 ```bibtex
-@article{maas2024,
-  title={Multi-Agent-as-a-Service},
-  author={Bing Li et al.},
-  year={2024},
-  journal={arXiv preprint}
+@article{zhang2025agenticsupernet,
+  title={Multi-agent Architecture Search via Agentic Supernet},
+  author={Zhang, Guibin and Niu, Luyang and Fang, Junfeng and Wang, Kun and Bai, Lei and Wang, Xiang},
+  journal={arXiv preprint arXiv:2502.04180},
+  year={2025}
 }
 ```
 
